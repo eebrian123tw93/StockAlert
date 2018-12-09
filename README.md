@@ -1,2 +1,2 @@
 # StockAlert
-android s tockAlert
+android stock alert
